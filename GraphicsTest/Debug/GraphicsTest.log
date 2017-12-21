@@ -1,0 +1,9 @@
+﻿  TestApplication.cpp
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(45): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(46): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(114): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(157): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\graphicstest\testapplication.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GraphicsTest.vcxproj -> C:\Users\MatiasPen\Downloads\EbinMotorV2000\EbinMotorV2000\EbinMotorV2000\build\win32\Debug\GraphicsTest.exe

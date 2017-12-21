@@ -1,0 +1,17 @@
+Executable : C:\Users\MatiasPen\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\MatiasPen\Downloads\Ebinmotor\Ebinmotor\Ebinmotor\build\android\app\src\main\cpp
+-BC:\Users\MatiasPen\Downloads\Ebinmotor\Ebinmotor\Ebinmotor\build\android\app\.externalNativeBuild\cmake\release\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\MatiasPen\Downloads\Ebinmotor\Ebinmotor\Ebinmotor\build\android\app\build\intermediates\cmake\release\obj\x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=C:\Users\MatiasPen\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\MatiasPen\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\MatiasPen\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_PLATFORM=android-14
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=gnustl_static
+jvmArgs : 
+

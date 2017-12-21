@@ -1,0 +1,16 @@
+﻿  GraphicsSystem.cpp
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec2.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec2.hpp(205): note: see reference to class template instantiation 'glm::vec<2,T,Q>' being compiled
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec2.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec2.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec3.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec3.hpp(226): note: see reference to class template instantiation 'glm::vec<3,T,Q>' being compiled
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec3.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec3.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec4.hpp(45): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec4.hpp(271): note: see reference to class template instantiation 'glm::vec<4,T,Q>' being compiled
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec4.hpp(46): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\detail\type_vec4.hpp(47): warning C4201: nonstandard extension used: nameless struct/union
+c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\gtc\quaternion.hpp(55): warning C4201: nonstandard extension used: nameless struct/union
+  c:\users\matiaspen\downloads\ebinmotorv2000\ebinmotorv2000\ebinmotorv2000\include\glm-master\glm\gtc\quaternion.hpp(130): note: see reference to class template instantiation 'glm::tquat<T,Q>' being compiled
+  engine.vcxproj -> C:\Users\MatiasPen\Downloads\EbinMotorV2000\EbinMotorV2000\EbinMotorV2000\build\win32\Debug\engine.lib
